@@ -38,4 +38,4 @@
 
 ## 开发者
 
-- **Your Name** - [gushuaialan@gmail.com](mailto:gushuaialan@gmail.com)
+- **Alan** - [gushuaialan@gmail.com](mailto:gushuaialan@gmail.com)
